@@ -12,7 +12,7 @@ module rca #(parameter width = 64) (
     
     genvar i;
     generate for (i = 0 ; i < width ; i = i + 1) begin: rca_fa
-        fa u (CARRY[i+1], SUM[i], a[i], b[i], CARRY[i]);
+        fa u (C[i+1], SUM[i], a[i], b[i], CARRY[i]);
     end
     endgenerate
     
