@@ -12,8 +12,11 @@
 
 **Top Module:** {module_name}.v
 
-| Port Name | Bit Width | Direction | Synchronous |
-|---|---|---|---|
+| Port Name | Bit Width | Direction | Synchronous | Description |
+|---|---|---|---|---|
+
+## Usage
+{Example codes to instantiate}
 
 ## References
 {Sources and Links}
