@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module fa (
     output C, S,
     input a, b, c
