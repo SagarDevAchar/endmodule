@@ -1,5 +1,3 @@
-`timescale 1ns / 1ps
-
 module rca #(parameter width = 64) (
     output C,
     output [width-1:0] S,
