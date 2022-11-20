@@ -10,5 +10,4 @@ module csa #(parameter width = 64) (
         fa u (C[i], S[i], x[i], y[i], z[i]);
     end
     endgenerate
-    
 endmodule
