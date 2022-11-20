@@ -5,5 +5,4 @@ module fa (
     
     assign S = (a ^ b ^ c);
     assign C = ((a & b) | (b & c) | (c & a));
-    
 endmodule
