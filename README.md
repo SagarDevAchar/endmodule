@@ -5,6 +5,6 @@ Open Source Verilog Modules released under a [CC0 License](https://github.com/Sa
 
 | Name | Contributor | Created On | Last Updated |
 |---|---|---|---|
-| [n-Bit Ripple Carry Adder](https://github.com/SagarDevAchar/endmodule/tree/main/n-Bit%20Ripple%20Carry%20Adder) | [SagarDevAchar](https://github.com/SagarDevAchar) | 12 Nov 2022 | 20 Nov 2022 | 
-| [m-Operand Fast Adder](https://github.com/SagarDevAchar/endmodule/tree/main/m-Operand%20Fast%20Adder) | [SagarDevAchar](https://github.com/SagarDevAchar) | 14 Nov 2022 | 20 Nov 2022 |
+| [n-Bit Ripple Carry Adder](https://github.com/SagarDevAchar/endmodule/tree/main/MODULES/n-Bit%20Ripple%20Carry%20Adder) | [SagarDevAchar](https://github.com/SagarDevAchar) | 12 Nov 2022 | 20 Nov 2022 | 
+| [m-Operand Fast Adder](https://github.com/SagarDevAchar/endmodule/tree/main/MODULES/m-Operand%20Fast%20Adder) | [SagarDevAchar](https://github.com/SagarDevAchar) | 14 Nov 2022 | 20 Nov 2022 |
 
