@@ -10,7 +10,7 @@ Configurable m-Operand Adder
 ## Contents
 - fastadder.v
 - csa.v
-- cpa.v (Same as [rca.v](https://github.com/SagarDevAchar/endmodule/blob/modules/n-Bit%20Ripple%20Carry%20Adder/rca.v))
+- cpa.v (Same as [rca.v](https://github.com/SagarDevAchar/endmodule/tree/main/MODULES/n-Bit%20Ripple%20Carry%20Adder/rca.v))
 - fa.v
 
 ## Port List
