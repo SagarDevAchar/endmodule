@@ -17,5 +17,4 @@ module cpa #(parameter width = 64) (
         fa u (CARRY[i+1], S[i], a[i], b[i], CARRY[i]);
     end
     endgenerate
-    
 endmodule
