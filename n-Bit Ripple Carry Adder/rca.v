@@ -15,5 +15,4 @@ module rca #(parameter width = 64) (
         fa u (C[i+1], SUM[i], a[i], b[i], CARRY[i]);
     end
     endgenerate
-    
 endmodule
